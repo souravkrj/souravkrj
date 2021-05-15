@@ -2,7 +2,7 @@
 
 I'm Sourav Kabiraj, a web developer from West Bengal, India. I love programming both as a job and as a hobby and I spend a lot of time coding and tinkering. I work mainly with web technologies such as JavaScript, HTML, CSS, Node.js, React and SCSS, but I occasionaly dabble in Python and Go.
 
-### My work 🔭 <br />
+### My work 🔭
 - I work as a full stack engineer for YoursOwn - app.
 - I am also a passionate teacher, have taught a lot of engineering students.
 - I am the co-founder of Yoursown.
