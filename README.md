@@ -12,5 +12,5 @@ I'm Sourav Kabiraj, a web developer from West Bengal, India. I love programming 
 Drop me a message on Twitter @souravkrj or ping me on discord @souravkrj#4004
 
 ```html
-   <p style="color:blue">This is another paragraph.</p>
+  style
 ```
