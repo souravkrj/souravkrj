@@ -4,11 +4,11 @@ I'm Sourav Kabiraj, a web developer from West Bengal, India. I love programming 
 
 ### My work 🔭
 
-I work as a full stack engineer for YoursOwn - website and app.
-I am also a passionate teacher, have taught a lot of engineering students.
-I am the co-founder of Yoursown.
-I code a lot, mainly in JavaScript.
+- I work as a full stack engineer for YoursOwn - website and app.
+- I am also a passionate teacher, have taught a lot of engineering students.
+- I am the co-founder of Yoursown.
+- I code a lot, mainly in JavaScript.
 
-Contact 📫
+### Contact 📫
 
 Drop me a message on Twitter @souravkrj or ping me on discord @souravkrj#4004
