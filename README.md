@@ -9,4 +9,4 @@ I'm Sourav Kabiraj, a web developer from West Bengal, India. I love programming 
 - I code a lot, mainly in JavaScript.
 
 ### Contact 📫
-Drop me a message on discord [@souravkrj#4004](https://discord.com/channels/souravkrj#4004)
+Drop me a message on twitter [@souravkrj](https://twitter.com/souravkrj) or on discord [@souravkrj#4004](https://discord.com/channels/souravkrj#4004)
